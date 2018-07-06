@@ -1,0 +1,97 @@
+[
+    {
+        "mode": "REQUIRED",
+        "name": "player_id",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "player_name",
+        "type": "STRING"
+    },
+    {
+        "mode": "REQUIRED",
+        "name": "club_id",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "entity_name",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "number_matches",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_innings",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_aggregate",
+        "type": "FLOAT"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_notouts",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "number_batting_milestone_25",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "number_batting_milestone_50",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "number_batting_milestone_100",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "number_ducks",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_hs",
+        "type": "FLOAT"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_average",
+        "type": "FLOAT"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_strike_rate",
+        "type": "FLOAT"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_4s",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_6s",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "batting_mins",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "season",
+        "type": "STRING"
+    }
+]
